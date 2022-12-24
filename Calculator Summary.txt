@@ -1,0 +1,12 @@
+Summary
+=======
+
+Overall using recursive method
+1)Check the expression contain brackets or not, if yes then get the inner bracket's expression for calculation first else proceed to step 2.
+2)Calculate the expression by checking the operator's priority first which is "*/" first then only "+-".
+3)After calculate then replace the answer to the expression to become a new expression.
+4)Continue step 1,2,3 until no more operators occur in the expression which mean it is the answer of the expression.
+
+
+Time used: 4 hours
+
